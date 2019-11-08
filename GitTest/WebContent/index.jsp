@@ -9,5 +9,6 @@
 <body>
 <h1>메롱메롱 바보바보</h1>
     <h2>바보북</h2>
+    <img src="http://image.yes24.com/momo/TopCate253/MidCate007/25263005.jpg">
 </body>
 </html>
