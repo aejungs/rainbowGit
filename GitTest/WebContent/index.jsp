@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>내가 맘대로 바꿔따아아아아아앙XD</h1>
+<h1>메롱메롱 바보바보</h1>
     <h2>바보북</h2>
 </body>
 </html>
